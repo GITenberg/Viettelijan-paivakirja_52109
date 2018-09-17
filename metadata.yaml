@@ -1,0 +1,39 @@
+_repo: Viettelijan-paivakirja_52109
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+creator:
+  author:
+    agent_name: Kierkegaard, Søren
+    aliases:
+    - Kirkegaard, Soeren
+    - Kierkegaard, Søren Aabye
+    - Kierkegaard, Soren
+    - Kierkegaard, Sören
+    - Kierkegaard, S. (Søren)
+    birthdate: 1813
+    deathdate: 1855
+    gutenberg_agent_id: '46682'
+    url: http://www.gutenberg.org/2009/agents/46682
+description: ''
+gutenberg_issued: '2016-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52109'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Kierkegaard, Søren, 1813-1855 -- Translations into Finnish'
+- GITenberg
+title: Viettelijän päiväkirja
+url: http://www.gutenberg.org/ebooks/52109
