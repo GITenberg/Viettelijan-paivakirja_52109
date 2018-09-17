@@ -1,5 +1,5 @@
 _repo: Viettelijan-paivakirja_52109
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Koskenniemi, Veikko Antero
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9084'
     url: http://www.gutenberg.org/2009/agents/9084
     wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kierkegaard, Søren
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '46682'
     url: http://www.gutenberg.org/2009/agents/46682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52109#Viettelijan-paivakirja
 gutenberg_issued: '2016-05-19'
 gutenberg_type: Text
 identifiers:
